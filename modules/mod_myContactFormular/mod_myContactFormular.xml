@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.3" client="site" method="upgrade">
+    <name>mycontact formular</name>
+    <author>Stef Kour</author>
+    <version>1.0.0</version>
+    <description>A formular to contact the user with the admin for various matters</description>
+    <files>
+        <filename>mod_myContactFormular.xml</filename>
+        <filename module="mod_myContactFormular">mod_myContactFormular.php</filename>
+        <filename>index.html</filename>
+        <filename>captcha.php</filename>
+    	<folder>tmpl</folder>
+	</files>
+    <config>
+	<fields name="params"><fieldset name="basic">
+        <field name="required_fields_notice"
+        type="text"
+        default="All fields with an * are required."
+        label="Required fields notice"        
+        description="The user must fill in all fields with an * symbol." /> 
+		</fieldset></fields>
+	</config>
+</extension>
