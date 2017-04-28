@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.3" client="site" method="upgrade">
+    <name>Rent requests manage</name>
+    <author>Stef Kour</author>
+    <creationDate>Jan 2015</creationDate>
+  <version>1.0</version>
+    <description>A table form which displays: unreaded, approved and declined rent requests.</description>
+    <files>
+        <filename>mod_rent_requests_manage.xml</filename>
+        <filename module="mod_rent_requests_manage">mod_rent_requests_manage.php</filename>
+		<filename>index.html</filename>
+        </files>
+    <config>
+	</config>
+</extension>

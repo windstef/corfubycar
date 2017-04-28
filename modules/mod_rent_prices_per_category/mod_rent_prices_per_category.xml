@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.3" client="site" method="upgrade">
+    <name>Rent prices per category</name>
+    <author>Stef Kour</author>
+    <creationDate>Jan 2015</creationDate>
+  <version>1.0</version>
+    <description>A side module, like newsflash article, to provide starting and indicative rent prices per category for 1-day period. The prices are set directly from the column 'startPrice' of the table '#__vehiclemanager_main_categories'. For change the starting rent price of each car category go: Components -> Vehiclemanager -> Categories -> choose category -> starting rent price</description>
+    <files>
+        <filename>mod_rent_prices_per_category.xml</filename>
+        <filename module="mod_rent_prices_per_category">mod_rent_prices_per_category.php</filename>
+		<filename>index.html</filename>
+        </files>
+    <config>
+	<!-- <fields name="params">
+	<fieldset name="basic">
+    <field name="cat_A_price"
+        type="text"
+        default=""
+        label="A category rent price"        
+        description="Set the starting, indicative rent price of the A category." />         
+	<field name="cat_B_price"
+        type="text"
+        default=""
+        label="B category rent price"        
+        description="Set the starting, indicative rent price of the B category." />         
+    <field name="cat_C_price"
+        type="text"
+        default=""
+        label="C category rent price"        
+        description="Set the starting, indicative rent price of the C category." />         
+    <field name="cat_D_price"
+        type="text"
+        default=""
+        label="D category rent price"        
+        description="Set the starting, indicative rent price of the D category." />         
+    </fieldset>
+	</fields>-->
+	</config>
+</extension>
