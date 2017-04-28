@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.3" client="site" method="upgrade">
+    <name>pick a rent car</name>
+    <author>Stef Kour</author>
+    <version>1.0.0</version>
+    <description>A select form for choosing a renting car. For change the starting rent price of each car category go: Components -> Vehiclemanager -> Categories -> choose category -> starting rent price</description>
+    <files>
+        <filename>mod_pickRentCar.xml</filename>
+        <filename module="mod_pickRentCar">mod_pickRentCar.php</filename>
+        <filename>index.html</filename>
+        <filename>helper.php</filename>
+        <filename>tmpl/default.php</filename>
+        <filename>tmpl/index.html</filename>
+    </files>
+     <config></config>
+</extension>
