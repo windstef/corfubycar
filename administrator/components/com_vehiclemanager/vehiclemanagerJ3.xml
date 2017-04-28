@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="2.5" method="upgrade">
+        <name>VehicleManager</name>
+        <creationDate>07 August 2014</creationDate>
+        <author>Rob de Cleen, Andrey Kvasnevskiy</author>
+        <authorEmail>rob@decleen.com; akbet@mail.ru; </authorEmail>
+        <authorUrl>http://www.ordasoft.com</authorUrl>
+        <copyright>ordasoft - Andrey Kvasnevskiy </copyright>
+        <license>This component is released under License from included LICENSE.txt file</license>
+        <version>3.3.1 FREE</version>
+        <description>VehicleManager - Joomla component for creating sites for selling or renting vehicles</description>
+
+        <!-- Custom un/installer for 1.6 -->
+	<scriptfile>install.uninstall.script.php</scriptfile>
+        <!-- Custom installer for 1.5 -->
+        <installfile>install.vehiclemanager.php</installfile>
+        <installfile>install.vehiclemanager.helper.php</installfile>
+        <!-- Custom uninstaller for 1.5 -->
+        <uninstallfile>uninstall.vehiclemanager.php</uninstallfile>
+
+        <params>
+                <param name="back_button" type="list" default="" label="Back Button" description="Show/Hide Back Button to return to the previous page">
+                        <option value="">Use Global</option>
+                        <option value="0">Hide</option>
+                        <option value="1">Show</option>
+                </param>
+        </params>
+
+        <install>
+                <sql>                
+                </sql>
+        </install>
+        <uninstall>
+                <sql>
+                </sql>
+        </uninstall>
+
+        <files folder="../site">
+		<filename>includes/jquery-ui.js</filename>
+		<filename>includes/jquery.raty.js</filename>
+		<filename>includes/functions.js</filename>
+		<filename>includes/adminmenus.php</filename>
+		<filename>includes/category.php</filename>
+		<filename>includes/classes.php</filename>
+		<filename>includes/html.php</filename>
+		<filename>includes/menu.php</filename>
+		<filename>includes/parameters.php</filename>    
+		<filename>includes/mambothandler.php</filename>  
+		<filename>includes/vehiclemanager.css</filename>
+                <filename>includes/custom.css</filename>
+                
+                <filename>helpers/association.php</filename>
+                <filename>helpers/route.php</filename>  
+        
+		<filename>compat.joomla1.5.php</filename>		
+		<filename>functions.php</filename> 
+		<filename>index.html</filename>
+                <filename>vehiclemanager.php</filename>
+                <filename>vehiclemanager.html.php</filename>
+		<filename>vehiclemanager.class.feature.php</filename>
+		<filename>vehiclemanager.class.language.php</filename>
+                <filename>vehiclemanager.class.php</filename>
+                <filename>vehiclemanager.class.rent.php</filename>
+                <filename>vehiclemanager.class.rent_request.php</filename>
+                <filename>vehiclemanager.class.buying_request.php</filename>
+                <filename>vehiclemanager.class.review.php</filename>
+                <filename>vehiclemanager.main.categories.class.php</filename>
+                <filename>captcha.php</filename>
+		<filename>router.php</filename>
+                <filename>edocs/index.html</filename>  
+                <filename>images/no-img_eng.gif</filename>
+                <filename>images/folder.png</filename>
+                <filename>images/vm_logo.png</filename>
+                <filename>images/no-img_eng_big.gif</filename>
+                <filename>images/star-half.png</filename>
+                <filename>images/star-off.png</filename>
+                <filename>images/star-on.png</filename>
+		<filename>images/emailButton.png</filename>
+                <filename>images/pdf_button.png</filename>
+                <filename>images/printButton.png</filename>
+		<filename>images/edit.png</filename>
+                <filename>images/hits.png</filename>
+                <filename>images/search.png</filename>
+		<filename>images/quotes_after.png</filename>
+		<filename>images/quotes_before.png</filename>
+		<filename>images/arrow_up_comment.png</filename>
+		<filename>images/mail_request.png</filename>
+		<filename>images/phone_request.png</filename>
+		<filename>images/calendar.png</filename>
+		<filename>images/rating-0.png</filename>
+		<filename>images/rating-1.png</filename>
+		<filename>images/rating-2.png</filename>
+		<filename>images/rating-3.png</filename>
+		<filename>images/rating-4.png</filename>
+		<filename>images/rating-5.png</filename>
+		<filename>images/rating-6.png</filename>
+		<filename>images/rating-7.png</filename>
+		<filename>images/rating-8.png</filename>
+		<filename>images/rating-9.png</filename>
+		<filename>images/rating-10.png</filename>
+
+                <filename>images/available.png</filename>
+                <filename>images/not_available.png</filename>
+                
+		<filename>featured_ico/index.html</filename>
+		
+		<folder>photos</folder>
+                                 
+                <filename>lightbox/css/lightbox.css</filename>
+                
+				<filename>lightbox/js/builder.js</filename>
+				<filename>lightbox/js/effects.js</filename>
+				<filename>lightbox/js/prototype.js</filename>
+				<filename>lightbox/js/scriptaculous.js</filename>
+				<filename>lightbox/js/jquery.autocomplete.js</filename>
+				<filename>lightbox/js/lightbox-2.6.min.js</filename>
+				<filename>lightbox/js/jQuerVEH-1.9.0.js</filename>
+
+				<filename>lightbox/images/close.png</filename>
+				<filename>lightbox/images/loading.gif</filename>
+				<filename>lightbox/images/next.png</filename>
+				<filename>lightbox/images/prev.png</filename>
+
+                <filename>TABS/tabcontent.js</filename>
+                <filename>TABS/tabcontent.css</filename>
+                <filename>TABS/tab_li_arrow.png</filename>
+
+                <folder>views</folder>
+
+                <filename>metadata.xml</filename>
+
+                <filename>images/rss.png</filename>
+                <filename>images/rss2.png</filename>
+                
+                <filename>makers_and_models.txt</filename>
+                
+                <folder>lang</folder>
+        </files>
+
+        <administration>
+                    <menu img="class:component" >VehicleManager</menu>
+                    <submenu>
+                      <menu img="class:module" >Vehicles</menu>
+                      <menu img="class:category"  link="option=com_vehiclemanager&amp;section=categories">Categories</menu>
+                      <menu img="class:writemess"  task="rent_requests">Rent Requests</menu>
+                      <menu img="class:writemess" task="buying_requests">Sale Manager</menu> 
+		      <menu img="class:writemess" link="option=com_vehiclemanager&amp;section=featured_manager">Features Manager</menu>
+		      <menu img="class:writemess" link="option=com_vehiclemanager&amp;section=language_manager">Language Manager</menu>
+                      <menu img="class:config" task="config">Settings</menu>
+                      <menu img="class:info" task="about">About</menu>
+                    </submenu>
+		               
+                <files folder="../admin"> 			
+			<filename>install.vehiclemanager.helper.php</filename> 
+			<filename>install.vehiclemanager.php</filename>
+			<filename>uninstall.vehiclemanager.php</filename>
+			
+			
+                        <filename>toolbar_ext.php</filename>
+                        <filename>menubar_ext.php</filename>                        
+       
+                        <filename>index.html</filename>
+                        
+                        <filename>vehiclemanager.php</filename>
+                        <filename>vehiclemanager.html.php</filename>
+                        <filename>admin.vehiclemanager.class.impexp.php</filename>
+                        <filename>admin.vehiclemanager.class.others.php</filename>
+                        <filename>admin.vehiclemanager.class.conf.php</filename>
+                        <filename>toolbar.vehiclemanager.php</filename>
+                        <filename>toolbar.vehiclemanager.html.php</filename>
+                        <filename>admin_vehiclemanager.css</filename>
+			
+                        <filename>doc/releasenote.php</filename>
+                        <filename>doc/changelog.html</filename>
+                        <filename>doc/LICENSE.txt</filename>
+                        <filename>doc/README.txt</filename>
+                        <filename>doc/index.html</filename>
+                        <filename>exports/index.html</filename>
+                        <filename>exports/csv.xsl</filename>
+                        <filename>exports/sample_data.xml</filename>
+                        <filename>images/info.png</filename>
+                        <filename>images/nav_bg.png</filename>     
+
+                        <filename>images/dm_edit_16.png</filename>
+                        <filename>images/dm_component_16.png</filename> 
+                        <filename>images/dm_credits_16.png</filename>                           
+                    
+                        <filename>images/dm_view_button.png</filename>
+                        <filename>images/dm_view_button_32.png</filename>
+                        
+                        <filename>images/dm_refetchInfos.png</filename>
+                        <filename>images/dm_refetchInfos_32.png</filename>
+                    
+                        <filename>images/dm_lend.png</filename>
+                        <filename>images/dm_lend_32.png</filename>
+                    
+                        <filename>images/dm_lend_return.png</filename>
+                        <filename>images/dm_lend_return_32.png</filename>
+                        <filename>images/lend_return_f2.png</filename>
+                    
+                        <filename>images/dm_accept.png</filename>
+                        <filename>images/dm_accept_32.png</filename>
+                        
+                        <filename>images/dm_decline.png</filename>
+                        <filename>images/dm_decline_32.png</filename>
+                        
+                        <filename>images/dm_import.png</filename>
+                        <filename>images/dm_import_32.png</filename>
+                  
+                        <filename>images/dm_export.png</filename>
+                        <filename>images/dm_export_32.png</filename>
+                  
+                        <filename>images/print.png</filename>                        
+                        <filename>images/lend_f2.png</filename>                          
+                        <filename>images/building_icon.jpg</filename>
+			<filename>images/tab_li_arrow.png</filename>
+                        
+                        <filename>elements/index.html</filename>
+                        <filename>elements/vehicle.php</filename>
+                        <filename>elements/viewvehiclelayout.php</filename>
+                        <filename>elements/user.php</filename>
+                        <filename>elements/categoryq.php</filename>
+                        <filename>elements/allcategorylayout.php</filename>
+                        <filename>elements/categorylayout.php</filename>
+                        <filename>elements/myvehicleslayout.php</filename>
+                        <filename>elements/ownerslistlayout.php</filename>
+                        <filename>elements/ownervehicleslayout.php</filename>
+                        <filename>elements/showsearchvehiclelayout.php</filename>
+                        <filename>elements/allvehiclelayout.php</filename>
+                </files>
+		
+        </administration>
+</extension>

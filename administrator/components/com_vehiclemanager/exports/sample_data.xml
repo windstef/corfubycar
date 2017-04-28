@@ -1,0 +1,927 @@
+<?xml version='1.0' encoding='utf-8'?>
+<vechicles_data>
+<version>3.0 PRO</version>
+<categories>
+<category>
+<category_id>46</category_id><category_parent_id>0</category_parent_id><category_name><![CDATA[Smart]]></category_name><category_title><![CDATA[Smart]]></category_title><category_section><![CDATA[com_vehiclemanager]]></category_section><category_published><![CDATA[1]]></category_published><category_params><![CDATA[-2]]></category_params><category_params2><![CDATA[O:8:"stdClass":2:{s:14:"alone_category";s:0:"";s:12:"view_vehicle";s:0:"";}]]></category_params2><category_language><![CDATA[*]]></category_language></category>
+<category>
+<category_id>47</category_id><category_parent_id>0</category_parent_id><category_name><![CDATA[Sedan]]></category_name><category_title><![CDATA[Sedan]]></category_title><category_section><![CDATA[com_vehiclemanager]]></category_section><category_published><![CDATA[1]]></category_published><category_params><![CDATA[-2]]></category_params><category_params2><![CDATA[O:8:"stdClass":2:{s:14:"alone_category";s:0:"";s:12:"view_vehicle";s:0:"";}]]></category_params2><category_language><![CDATA[*]]></category_language></category>
+<category>
+<category_id>48</category_id><category_parent_id>0</category_parent_id><category_name><![CDATA[Trucks]]></category_name><category_title><![CDATA[Trucks]]></category_title><category_section><![CDATA[com_vehiclemanager]]></category_section><category_published><![CDATA[1]]></category_published><category_params><![CDATA[-2]]></category_params><category_params2><![CDATA[O:8:"stdClass":2:{s:14:"alone_category";s:0:"";s:12:"view_vehicle";s:0:"";}]]></category_params2><category_language><![CDATA[*]]></category_language></category>
+<category>
+<category_id>49</category_id><category_parent_id>0</category_parent_id><category_name><![CDATA[Sport]]></category_name><category_title><![CDATA[Sport]]></category_title><category_section><![CDATA[com_vehiclemanager]]></category_section><category_published><![CDATA[1]]></category_published><category_params><![CDATA[-2]]></category_params><category_params2><![CDATA[O:8:"stdClass":2:{s:14:"alone_category";s:0:"";s:12:"view_vehicle";s:0:"";}]]></category_params2><category_language><![CDATA[*]]></category_language></category>
+<category>
+<category_id>50</category_id><category_parent_id>46</category_parent_id><category_name><![CDATA[Sale]]></category_name><category_title><![CDATA[Sale]]></category_title><category_section><![CDATA[com_vehiclemanager]]></category_section><category_published><![CDATA[1]]></category_published><category_params><![CDATA[-2]]></category_params><category_params2><![CDATA[O:8:"stdClass":2:{s:14:"alone_category";s:0:"";s:12:"view_vehicle";s:0:"";}]]></category_params2><category_language><![CDATA[*]]></category_language></category>
+<category>
+<category_id>51</category_id><category_parent_id>46</category_parent_id><category_name><![CDATA[Rent]]></category_name><category_title><![CDATA[Rent]]></category_title><category_section><![CDATA[com_vehiclemanager]]></category_section><category_published><![CDATA[1]]></category_published><category_params><![CDATA[-2]]></category_params><category_params2><![CDATA[O:8:"stdClass":2:{s:14:"alone_category";s:0:"";s:12:"view_vehicle";s:0:"";}]]></category_params2><category_language><![CDATA[*]]></category_language></category>
+</categories>
+<features>
+<feature>
+<feature_id>13</feature_id><feature_name><![CDATA[Castle at the checkpoint]]></feature_name><feature_categories><![CDATA[Safety]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>12</feature_id><feature_name><![CDATA[Halogen headlights]]></feature_name><feature_categories><![CDATA[Safety]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>11</feature_id><feature_name><![CDATA[EBD]]></feature_name><feature_categories><![CDATA[Safety]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>10</feature_id><feature_name><![CDATA[ESP]]></feature_name><feature_categories><![CDATA[Safety]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>9</feature_id><feature_name><![CDATA[ABS]]></feature_name><feature_categories><![CDATA[Safety]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>8</feature_id><feature_name><![CDATA[ABD]]></feature_name><feature_categories><![CDATA[Safety]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>14</feature_id><feature_name><![CDATA[Immobilizer]]></feature_name><feature_categories><![CDATA[Safety]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>15</feature_id><feature_name><![CDATA[Xenon headlights]]></feature_name><feature_categories><![CDATA[Safety]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>16</feature_id><feature_name><![CDATA[Airbag]]></feature_name><feature_categories><![CDATA[Safety]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>17</feature_id><feature_name><![CDATA[Servotab]]></feature_name><feature_categories><![CDATA[Safety]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>18</feature_id><feature_name><![CDATA[Signaling]]></feature_name><feature_categories><![CDATA[Safety]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>19</feature_id><feature_name><![CDATA[Central locking]]></feature_name><feature_categories><![CDATA[Safety]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>20</feature_id><feature_name><![CDATA[Fog lights]]></feature_name><feature_categories><![CDATA[Safety]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>21</feature_id><feature_name><![CDATA[On-board computer]]></feature_name><feature_categories><![CDATA[Comfort]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>22</feature_id><feature_name><![CDATA[Oven]]></feature_name><feature_categories><![CDATA[Comfort]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>23</feature_id><feature_name><![CDATA[Light sensor]]></feature_name><feature_categories><![CDATA[Comfort]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>24</feature_id><feature_name><![CDATA[Climate control]]></feature_name><feature_categories><![CDATA[Comfort]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>25</feature_id><feature_name><![CDATA[Leather interior]]></feature_name><feature_categories><![CDATA[Comfort]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>26</feature_id><feature_name><![CDATA[Air conditioning]]></feature_name><feature_categories><![CDATA[Comfort]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>27</feature_id><feature_name><![CDATA[Cruise control]]></feature_name><feature_categories><![CDATA[Comfort]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>28</feature_id><feature_name><![CDATA[Luke]]></feature_name><feature_categories><![CDATA[Comfort]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>29</feature_id><feature_name><![CDATA[Multiwheel]]></feature_name><feature_categories><![CDATA[Comfort]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>30</feature_id><feature_name><![CDATA[Headlight washer]]></feature_name><feature_categories><![CDATA[Comfort]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>31</feature_id><feature_name><![CDATA[Parktronic]]></feature_name><feature_categories><![CDATA[Comfort]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>32</feature_id><feature_name><![CDATA[Heated mirrors]]></feature_name><feature_categories><![CDATA[Comfort]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>33</feature_id><feature_name><![CDATA[Heated seats]]></feature_name><feature_categories><![CDATA[Comfort]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>34</feature_id><feature_name><![CDATA[Rain sensor]]></feature_name><feature_categories><![CDATA[Comfort]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>35</feature_id><feature_name><![CDATA[Power steering]]></feature_name><feature_categories><![CDATA[Comfort]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>36</feature_id><feature_name><![CDATA[Power windows]]></feature_name><feature_categories><![CDATA[Comfort]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>38</feature_id><feature_name><![CDATA[R-camera]]></feature_name><feature_categories><![CDATA[Multimedia]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>39</feature_id><feature_name><![CDATA[Acoustics]]></feature_name><feature_categories><![CDATA[Multimedia]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>40</feature_id><feature_name><![CDATA[Subwoofer]]></feature_name><feature_categories><![CDATA[Multimedia]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>41</feature_id><feature_name><![CDATA[Tape recorder]]></feature_name><feature_categories><![CDATA[Multimedia]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>42</feature_id><feature_name><![CDATA[CD]]></feature_name><feature_categories><![CDATA[Multimedia]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>43</feature_id><feature_name><![CDATA[DVD]]></feature_name><feature_categories><![CDATA[Multimedia]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>44</feature_id><feature_name><![CDATA[MP3]]></feature_name><feature_categories><![CDATA[Multimedia]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>45</feature_id><feature_name><![CDATA[GPS]]></feature_name><feature_categories><![CDATA[Multimedia]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>46</feature_id><feature_name><![CDATA[Service book]]></feature_name><feature_categories><![CDATA[Other]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>47</feature_id><feature_name><![CDATA[Tuning]]></feature_name><feature_categories><![CDATA[Other]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>48</feature_id><feature_name><![CDATA[Toning]]></feature_name><feature_categories><![CDATA[Other]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+<feature>
+<feature_id>49</feature_id><feature_name><![CDATA[Hitch]]></feature_name><feature_categories><![CDATA[Other]]></feature_categories><feature_published><![CDATA[1]]></feature_published><feature_image_link><![CDATA[]]></feature_image_link></feature>
+</features>
+<features_vehicles>
+</features_vehicles>
+<vechicles_list>
+<vehicle>
+<id>2</id>
+<vehicleid>44</vehicleid>
+<catids>
+<catid>46</catid>
+</catids>
+<description><![CDATA[<p>The car was introduced on September 11, 1996, as a small and low-cost addition to the Ford range. It was based on the Mark IV Ford Fiesta platform, but with a completely different exterior design.[10] The vehicle was manufactured on the existing Fiesta production line in Almussafes, Valencia, thus minimising new model investment costs for Ford. The Chief Program Engineer was Kevin O’Neill. When the Ka was first introduced to the public it provoked mixed reactions, due to its original and striking New Edge design, overseen by Jack Telnack and executed by Claude Lobo.[11] Besides the fresh styling, the Ka, like its sister cars Fiesta and Puma, was lauded in the motoring press for its nimble handling. Under Richard Parry-Jones's supervision, the suspension and steering settings allowed for spirited cornering and high levels of grip, making it one of the best handling small cars. At launch, Ka was produced as a single model, with a number of production options including air conditioning, 
+power steering, height-adjustable driver’s seat, adjustable position rear seat with head restraints, passenger airbag, central locking and power windows. An anti-lock braking system option was added in January 1997. The main drawback was the Ka's 1300 cc OHV four-cylinder Endura-E engine, a design dating back to the 1960s Kent engine used in the Ford Anglia. Although not very modern, it provided enough torque to allow relaxed if not spirited driving.[12] In 2002, the Endura-E was replaced by the overhead cam Duratec engine, with claims of improved fuel efficiency and increased refinement, mostly caused by taller gearing on the non-air conditioned models. For the first three years of production, all models had black plastic bumpers to minimise parking damage to paintwork in city conditions. These bumpers contained a stabiliser to prevent UV degradation which made them unsuitable for painting because the paint would not adhere properly. However, it became clear that many owners wanted body-coloured bumpers, so 
+they were introduced in 1999 using different bumper mouldings (without the stabiliser) which can be identified by a light styling line over the rear bumper. The Ka has proved highly profitable for Ford despite its low selling price, largely due to its low development costs. In 2006, Ford sold 17,000 examples of the Ka model in the United Kingdom.</p>]]></description>
+<link><![CDATA[1]]></link>
+<vmodel><![CDATA[Ka]]></vmodel>
+<vtype><![CDATA[sedan]]></vtype>
+<listing_type><![CDATA[vehicle for rent]]></listing_type>
+<price>32600</price>
+<priceunit><![CDATA[USD]]></priceunit>
+<price_type>negotiable</price_type>
+<vtitle><![CDATA[2010 FORD Ka 1.2 Titanium]]></vtitle>
+<vlocation><![CDATA[Minden]]></vlocation>
+<vlatitude>52.21837711552592</vlatitude>
+<vlongitude>8.94287109375</vlongitude>
+<contacts></contacts>
+<map_zoom>6</map_zoom>
+<year>2010</year>
+<vcondition><![CDATA[new]]></vcondition>
+<mileage>12</mileage>
+<listing_status><![CDATA[active]]></listing_status>
+<engine><![CDATA[]]></engine>
+<transmission><![CDATA[manual]]></transmission>
+<drive_type><![CDATA[Fwd]]></drive_type>
+<cylinder><![CDATA[4]]></cylinder>
+<num_speed><![CDATA[3Spd]]></num_speed>
+<fuel_type><![CDATA[petrol]]></fuel_type>
+<city_fuel_mpg><![CDATA[]]></city_fuel_mpg>
+<highway_fuel_mpg><![CDATA[]]></highway_fuel_mpg>
+<wheelbase><![CDATA[]]></wheelbase>
+<wheeltype><![CDATA[]]></wheeltype>
+<rear_axe_type><![CDATA[]]></rear_axe_type>
+<brakes_type><![CDATA[]]></brakes_type>
+<exterior_color><![CDATA[]]></exterior_color>
+<doors>none</doors>
+<exterior_amenities><![CDATA[]]></exterior_amenities>
+<interior_color><![CDATA[]]></interior_color>
+<seating></seating>
+<dashboard_options><![CDATA[]]></dashboard_options>
+<interior_amenities><![CDATA[]]></interior_amenities>
+<safety_options><![CDATA[]]></safety_options>
+<w_basic><![CDATA[]]></w_basic>
+<w_drivetrain><![CDATA[]]></w_drivetrain>
+<w_corrosion><![CDATA[]]></w_corrosion>
+<w_roadside_ass><![CDATA[]]></w_roadside_ass>
+<image_link><![CDATA[990BD395-93F3-B83E-3AE5-30D7589F8593_Mazda-6.jpg]]></image_link>
+<featured_clicks><![CDATA[]]></featured_clicks>
+<featured_shows><![CDATA[]]></featured_shows>
+<hits>10</hits>
+<date>2012-11-30 13:54:49</date>
+<published>1</published>
+<maker><![CDATA[FORD(Europe)]]></maker>
+<owneremail><![CDATA[]]></owneremail>
+<country><![CDATA[]]></country>
+<region><![CDATA[]]></region>
+<city><![CDATA[]]></city>
+<district><![CDATA[]]></district>
+<zipcode><![CDATA[]]></zipcode>
+<extra1><![CDATA[]]></extra1>
+<extra2><![CDATA[]]></extra2>
+<extra3><![CDATA[]]></extra3>
+<extra4><![CDATA[]]></extra4>
+<extra5><![CDATA[]]></extra5>
+<extra6><![CDATA[Extra1]]></extra6>
+<extra7><![CDATA[Extra1]]></extra7>
+<extra8><![CDATA[Extra1]]></extra8>
+<extra9><![CDATA[Extra1]]></extra9>
+<extra10><![CDATA[Extra1]]></extra10>
+<language><![CDATA[*]]></language>
+<rents>
+</rents>
+<rentrequests>
+</rentrequests>
+<buyingrequests>
+</buyingrequests>
+<reviews>
+</reviews>
+<images>
+<image>
+<thumbnail_img><![CDATA[]]></thumbnail_img>
+<main_img><![CDATA[2FCA1B64-6BF8-C70F-F364-E0D65CA40D9E_Mazda-6.jpg]]></main_img>
+</image>
+<image>
+<thumbnail_img><![CDATA[]]></thumbnail_img>
+<main_img><![CDATA[F8777788-B35A-37EC-FB3B-78B03ACB1CB6_Mazda-6.jpg]]></main_img>
+</image>
+</images>
+</vehicle>
+<vehicle>
+<id>3</id>
+<vehicleid>47</vehicleid>
+<catids>
+<catid>47</catid>
+</catids>
+<description><![CDATA[<p>2006 BMW 3 SERIES 2.0 320I ES SALOON</p>]]></description>
+<link><![CDATA[2]]></link>
+<vmodel><![CDATA[320]]></vmodel>
+<vtype><![CDATA[truck]]></vtype>
+<listing_type><![CDATA[vehicle for sale]]></listing_type>
+<price>29500</price>
+<priceunit><![CDATA[USD]]></priceunit>
+<price_type>negotiable</price_type>
+<vtitle><![CDATA[2006 BMW 3 SERIES 2.0 320I ES SALOON]]></vtitle>
+<vlocation><![CDATA[Ankara]]></vlocation>
+<vlatitude>39.91984763319275</vlatitude>
+<vlongitude>32.9150390625</vlongitude>
+<contacts></contacts>
+<map_zoom>5</map_zoom>
+<year>2006</year>
+<vcondition><![CDATA[used]]></vcondition>
+<mileage>126,800</mileage>
+<listing_status><![CDATA[active]]></listing_status>
+<engine><![CDATA[]]></engine>
+<transmission><![CDATA[manual]]></transmission>
+<drive_type><![CDATA[Fwd]]></drive_type>
+<cylinder><![CDATA[4]]></cylinder>
+<num_speed><![CDATA[3Spd]]></num_speed>
+<fuel_type><![CDATA[petrol]]></fuel_type>
+<city_fuel_mpg><![CDATA[]]></city_fuel_mpg>
+<highway_fuel_mpg><![CDATA[]]></highway_fuel_mpg>
+<wheelbase><![CDATA[]]></wheelbase>
+<wheeltype><![CDATA[]]></wheeltype>
+<rear_axe_type><![CDATA[]]></rear_axe_type>
+<brakes_type><![CDATA[]]></brakes_type>
+<exterior_color><![CDATA[]]></exterior_color>
+<doors>4</doors>
+<exterior_amenities><![CDATA[]]></exterior_amenities>
+<interior_color><![CDATA[]]></interior_color>
+<seating></seating>
+<dashboard_options><![CDATA[]]></dashboard_options>
+<interior_amenities><![CDATA[]]></interior_amenities>
+<safety_options><![CDATA[]]></safety_options>
+<w_basic><![CDATA[]]></w_basic>
+<w_drivetrain><![CDATA[]]></w_drivetrain>
+<w_corrosion><![CDATA[]]></w_corrosion>
+<w_roadside_ass><![CDATA[]]></w_roadside_ass>
+<image_link><![CDATA[6921B715-74A2-D0B8-9664-0802101B8285_BMW.jpg]]></image_link>
+<featured_clicks><![CDATA[]]></featured_clicks>
+<featured_shows><![CDATA[]]></featured_shows>
+<hits>17</hits>
+<date>2012-11-30 14:01:36</date>
+<published>1</published>
+<maker><![CDATA[BMW]]></maker>
+<owneremail><![CDATA[]]></owneremail>
+<country><![CDATA[]]></country>
+<region><![CDATA[]]></region>
+<city><![CDATA[]]></city>
+<district><![CDATA[]]></district>
+<zipcode><![CDATA[]]></zipcode>
+<extra1><![CDATA[]]></extra1>
+<extra2><![CDATA[]]></extra2>
+<extra3><![CDATA[]]></extra3>
+<extra4><![CDATA[]]></extra4>
+<extra5><![CDATA[]]></extra5>
+<extra6><![CDATA[Extra1]]></extra6>
+<extra7><![CDATA[Extra1]]></extra7>
+<extra8><![CDATA[Extra1]]></extra8>
+<extra9><![CDATA[Extra1]]></extra9>
+<extra10><![CDATA[Extra1]]></extra10>
+<language><![CDATA[*]]></language>
+<rents>
+</rents>
+<rentrequests>
+</rentrequests>
+<buyingrequests>
+</buyingrequests>
+<reviews>
+</reviews>
+<images>
+<image>
+<thumbnail_img><![CDATA[]]></thumbnail_img>
+<main_img><![CDATA[F3B5FCFB-C403-D30F-8E52-5912C6E92EB3_BMW.jpg]]></main_img>
+</image>
+<image>
+<thumbnail_img><![CDATA[]]></thumbnail_img>
+<main_img><![CDATA[2CEDF0CA-9704-A82B-0A2F-13A6AFBF9A73_BMW.jpg]]></main_img>
+</image>
+</images>
+</vehicle>
+<vehicle>
+<id>4</id>
+<vehicleid>51</vehicleid>
+<catids>
+<catid>48</catid>
+</catids>
+<description><![CDATA[<p>2009 Smart fortwo pure</p>]]></description>
+<link><![CDATA[3]]></link>
+<vmodel><![CDATA[Xsara]]></vmodel>
+<vtype><![CDATA[sedan]]></vtype>
+<listing_type><![CDATA[vehicle for rent]]></listing_type>
+<price>11590</price>
+<priceunit><![CDATA[USD]]></priceunit>
+<price_type>negotiable</price_type>
+<vtitle><![CDATA[1998 CITROEN XSARA 1.8I 16V EXCLUSIVE 5DR]]></vtitle>
+<vlocation><![CDATA[France/Paris 22 rue Monsieur Le Prince - 75006]]></vlocation>
+<vlatitude>48.841582280456464</vlatitude>
+<vlongitude>2.3721313197165728</vlongitude>
+<contacts></contacts>
+<map_zoom>8</map_zoom>
+<year>1998</year>
+<vcondition><![CDATA[used]]></vcondition>
+<mileage>125000</mileage>
+<listing_status><![CDATA[active]]></listing_status>
+<engine><![CDATA[]]></engine>
+<transmission><![CDATA[manual]]></transmission>
+<drive_type><![CDATA[Fwd]]></drive_type>
+<cylinder><![CDATA[4]]></cylinder>
+<num_speed><![CDATA[3Spd]]></num_speed>
+<fuel_type><![CDATA[petrol]]></fuel_type>
+<city_fuel_mpg><![CDATA[33 mp]]></city_fuel_mpg>
+<highway_fuel_mpg><![CDATA[ 41 m]]></highway_fuel_mpg>
+<wheelbase><![CDATA[]]></wheelbase>
+<wheeltype><![CDATA[]]></wheeltype>
+<rear_axe_type><![CDATA[]]></rear_axe_type>
+<brakes_type><![CDATA[]]></brakes_type>
+<exterior_color><![CDATA[blue]]></exterior_color>
+<doors>2</doors>
+<exterior_amenities><![CDATA[    *  Height, Overall (in): 60.7     * Length, Overall (in): 106.1     * Liftover Height (in): - TBD -     * Min Ground Clearance (in): - TBD -     * Tread Width, Front (in): 50.5     * Tread Width, Rear (in): 54.5     * Wheelbase (in): 73.5     * Width, Max w/o mirrors (in): 61.4]]></exterior_amenities>
+<interior_color><![CDATA[red and black]]></interior_color>
+<seating>2</seating>
+<dashboard_options><![CDATA[]]></dashboard_options>
+<interior_amenities><![CDATA[    *  Front Head Room (in): 39.7     * Front Hip Room (in): 45.4     * Front Leg Room (in): 41.2     * Front Shoulder Room (in): 48.0     * Passenger Capacity: 2     * Passenger Volume (ft³): 45.4]]></interior_amenities>
+<safety_options><![CDATA[]]></safety_options>
+<w_basic><![CDATA[3 Years/36,000 Miles]]></w_basic>
+<w_drivetrain><![CDATA[5 Years/100,000 Miles]]></w_drivetrain>
+<w_corrosion><![CDATA[6 Years/100,000 Miles]]></w_corrosion>
+<w_roadside_ass><![CDATA[5 Years/100,000 Miles]]></w_roadside_ass>
+<image_link><![CDATA[904DFE22-73ED-9F3C-5E8D-737B06CABA43_Lamborghini.jpg]]></image_link>
+<featured_clicks><![CDATA[]]></featured_clicks>
+<featured_shows><![CDATA[]]></featured_shows>
+<hits>62</hits>
+<date>2012-11-30 14:03:04</date>
+<published>1</published>
+<maker><![CDATA[CITROEN]]></maker>
+<owneremail><![CDATA[]]></owneremail>
+<country><![CDATA[]]></country>
+<region><![CDATA[]]></region>
+<city><![CDATA[]]></city>
+<district><![CDATA[]]></district>
+<zipcode><![CDATA[]]></zipcode>
+<extra1><![CDATA[]]></extra1>
+<extra2><![CDATA[]]></extra2>
+<extra3><![CDATA[]]></extra3>
+<extra4><![CDATA[]]></extra4>
+<extra5><![CDATA[]]></extra5>
+<extra6><![CDATA[Extra1]]></extra6>
+<extra7><![CDATA[Extra1]]></extra7>
+<extra8><![CDATA[Extra1]]></extra8>
+<extra9><![CDATA[Extra1]]></extra9>
+<extra10><![CDATA[Extra1]]></extra10>
+<language><![CDATA[*]]></language>
+<rents>
+</rents>
+<rentrequests>
+</rentrequests>
+<buyingrequests>
+</buyingrequests>
+<reviews>
+</reviews>
+<images>
+<image>
+<thumbnail_img><![CDATA[]]></thumbnail_img>
+<main_img><![CDATA[3D582621-04AB-9005-3E6E-DD346BEFF068_Lamborghini.jpg]]></main_img>
+</image>
+<image>
+<thumbnail_img><![CDATA[]]></thumbnail_img>
+<main_img><![CDATA[9D9C7493-AC57-627A-7D0F-846F9EAEC048_Lamborghini.jpg]]></main_img>
+</image>
+</images>
+</vehicle>
+<vehicle>
+<id>5</id>
+<vehicleid>49</vehicleid>
+<catids>
+<catid>49</catid>
+</catids>
+<description><![CDATA[<p>2009 Lamborghini Gallardo LP560-4 Coupe</p>]]></description>
+<link><![CDATA[4]]></link>
+<vmodel><![CDATA[Gallardo]]></vmodel>
+<vtype><![CDATA[coupe]]></vtype>
+<listing_type><![CDATA[vehicle for rent]]></listing_type>
+<price>198000</price>
+<priceunit><![CDATA[USD]]></priceunit>
+<price_type>negotiable</price_type>
+<vtitle><![CDATA[2009 Lamborghini Gallardo LP560-4 Coupe]]></vtitle>
+<vlocation><![CDATA[San Francisco, CA, 94109, USA]]></vlocation>
+<vlatitude>37.759858513184625</vlatitude>
+<vlongitude>-122.39959719590843</vlongitude>
+<contacts></contacts>
+<map_zoom>9</map_zoom>
+<year>2009</year>
+<vcondition><![CDATA[used]]></vcondition>
+<mileage>33</mileage>
+<listing_status><![CDATA[active]]></listing_status>
+<engine><![CDATA[5.2-Liter, 90 Degree V10, VVT 40-Valve, DOHC,]]></engine>
+<transmission><![CDATA[manual]]></transmission>
+<drive_type><![CDATA[Fwd]]></drive_type>
+<cylinder><![CDATA[4]]></cylinder>
+<num_speed><![CDATA[3Spd]]></num_speed>
+<fuel_type><![CDATA[petrol]]></fuel_type>
+<city_fuel_mpg><![CDATA[12 mp]]></city_fuel_mpg>
+<highway_fuel_mpg><![CDATA[ 20 m]]></highway_fuel_mpg>
+<wheelbase><![CDATA[4-Wheel ABS]]></wheelbase>
+<wheeltype><![CDATA[All Wheel Drive]]></wheeltype>
+<rear_axe_type><![CDATA[]]></rear_axe_type>
+<brakes_type><![CDATA[]]></brakes_type>
+<exterior_color><![CDATA[]]></exterior_color>
+<doors>2</doors>
+<exterior_amenities><![CDATA[# Keyless Entry # Power Door Locks # Heated Mirrors # Power Driver Mirror # Leather Seats # Bucket Seats # Power Steering # Adjustable Steering Wheel # Tires - Front Performance # Tires - Rear Performance # Traction Control # Aluminum Wheels # Power Windows # Intermittent Wipers # MP3 Player # Fog Lamps # Power Passenger Mirror # Heated Exterior Driver Mirror # Heated Exterior Passenger Mirror # Variable Speed Intermittent Wipe]]></exterior_amenities>
+<interior_color><![CDATA[]]></interior_color>
+<seating>2</seating>
+<dashboard_options><![CDATA[]]></dashboard_options>
+<interior_amenities><![CDATA[]]></interior_amenities>
+<safety_options><![CDATA[]]></safety_options>
+<w_basic><![CDATA[3 Years/36,000 Miles]]></w_basic>
+<w_drivetrain><![CDATA[5 Years/100,000 Miles]]></w_drivetrain>
+<w_corrosion><![CDATA[6 Years/100,000 Miles]]></w_corrosion>
+<w_roadside_ass><![CDATA[5 Years/100,000 Miles]]></w_roadside_ass>
+<image_link><![CDATA[8273B7D8-3FD4-CDB0-083C-675B81554EAE_mercedes-benz-car1.jpg]]></image_link>
+<featured_clicks><![CDATA[]]></featured_clicks>
+<featured_shows><![CDATA[]]></featured_shows>
+<hits>13</hits>
+<date>2012-11-30 14:02:52</date>
+<published>1</published>
+<maker><![CDATA[LAMBORGHINI]]></maker>
+<owneremail><![CDATA[]]></owneremail>
+<country><![CDATA[]]></country>
+<region><![CDATA[]]></region>
+<city><![CDATA[]]></city>
+<district><![CDATA[]]></district>
+<zipcode><![CDATA[]]></zipcode>
+<extra1><![CDATA[]]></extra1>
+<extra2><![CDATA[]]></extra2>
+<extra3><![CDATA[]]></extra3>
+<extra4><![CDATA[]]></extra4>
+<extra5><![CDATA[]]></extra5>
+<extra6><![CDATA[]]></extra6>
+<extra7><![CDATA[]]></extra7>
+<extra8><![CDATA[]]></extra8>
+<extra9><![CDATA[]]></extra9>
+<extra10><![CDATA[]]></extra10>
+<language><![CDATA[*]]></language>
+<rents>
+</rents>
+<rentrequests>
+</rentrequests>
+<buyingrequests>
+</buyingrequests>
+<reviews>
+</reviews>
+<images>
+<image>
+<thumbnail_img><![CDATA[]]></thumbnail_img>
+<main_img><![CDATA[9A59987B-5411-6846-7FA4-2992C7E109C4_mercedes-benz-car1.jpg]]></main_img>
+</image>
+<image>
+<thumbnail_img><![CDATA[]]></thumbnail_img>
+<main_img><![CDATA[6F64E89C-5982-CDF5-C7C8-C833E996AC64_mercedes-benz-car1.jpg]]></main_img>
+</image>
+</images>
+</vehicle>
+<vehicle>
+<id>6</id>
+<vehicleid>43</vehicleid>
+<catids>
+<catid>47</catid>
+</catids>
+<description><![CDATA[<p>2009 AUDI A3</p>]]></description>
+<link><![CDATA[5]]></link>
+<vmodel><![CDATA[A3]]></vmodel>
+<vtype><![CDATA[truck]]></vtype>
+<listing_type><![CDATA[vehicle for sale]]></listing_type>
+<price>62500</price>
+<priceunit><![CDATA[USD]]></priceunit>
+<price_type>negotiable</price_type>
+<vtitle><![CDATA[2009 AUDI A3]]></vtitle>
+<vlocation><![CDATA[London]]></vlocation>
+<vlatitude>51.45332225816797</vlatitude>
+<vlongitude>-0.05676275119185448</vlongitude>
+<contacts></contacts>
+<map_zoom>8</map_zoom>
+<year>2009</year>
+<vcondition><![CDATA[used]]></vcondition>
+<mileage>10</mileage>
+<listing_status><![CDATA[active]]></listing_status>
+<engine><![CDATA[]]></engine>
+<transmission><![CDATA[manual]]></transmission>
+<drive_type><![CDATA[Fwd]]></drive_type>
+<cylinder><![CDATA[4]]></cylinder>
+<num_speed><![CDATA[3Spd]]></num_speed>
+<fuel_type><![CDATA[diesel]]></fuel_type>
+<city_fuel_mpg><![CDATA[]]></city_fuel_mpg>
+<highway_fuel_mpg><![CDATA[]]></highway_fuel_mpg>
+<wheelbase><![CDATA[]]></wheelbase>
+<wheeltype><![CDATA[]]></wheeltype>
+<rear_axe_type><![CDATA[]]></rear_axe_type>
+<brakes_type><![CDATA[]]></brakes_type>
+<exterior_color><![CDATA[Red]]></exterior_color>
+<doors>4</doors>
+<exterior_amenities><![CDATA[]]></exterior_amenities>
+<interior_color><![CDATA[]]></interior_color>
+<seating></seating>
+<dashboard_options><![CDATA[]]></dashboard_options>
+<interior_amenities><![CDATA[]]></interior_amenities>
+<safety_options><![CDATA[]]></safety_options>
+<w_basic><![CDATA[3 Years/36,000 Miles]]></w_basic>
+<w_drivetrain><![CDATA[5 Years/100,000 Miles]]></w_drivetrain>
+<w_corrosion><![CDATA[6 Years/100,000 Miles]]></w_corrosion>
+<w_roadside_ass><![CDATA[5 Years/100,000 Miles]]></w_roadside_ass>
+<image_link><![CDATA[CDC4A4E2-9038-8481-C482-D19ECC26DC26_audi_a3.jpg]]></image_link>
+<featured_clicks><![CDATA[]]></featured_clicks>
+<featured_shows><![CDATA[]]></featured_shows>
+<hits>8</hits>
+<date>2012-11-30 13:53:46</date>
+<published>1</published>
+<maker><![CDATA[AUDI]]></maker>
+<owneremail><![CDATA[]]></owneremail>
+<country><![CDATA[]]></country>
+<region><![CDATA[]]></region>
+<city><![CDATA[]]></city>
+<district><![CDATA[]]></district>
+<zipcode><![CDATA[]]></zipcode>
+<extra1><![CDATA[]]></extra1>
+<extra2><![CDATA[]]></extra2>
+<extra3><![CDATA[]]></extra3>
+<extra4><![CDATA[]]></extra4>
+<extra5><![CDATA[]]></extra5>
+<extra6><![CDATA[Extra1]]></extra6>
+<extra7><![CDATA[Extra1]]></extra7>
+<extra8><![CDATA[Extra1]]></extra8>
+<extra9><![CDATA[Extra1]]></extra9>
+<extra10><![CDATA[Extra1]]></extra10>
+<language><![CDATA[*]]></language>
+<rents>
+</rents>
+<rentrequests>
+</rentrequests>
+<buyingrequests>
+</buyingrequests>
+<reviews>
+</reviews>
+<images>
+<image>
+<thumbnail_img><![CDATA[]]></thumbnail_img>
+<main_img><![CDATA[A2D692F9-FF5D-4F4A-3813-C727BF001C4E_audi_a3.jpg]]></main_img>
+</image>
+<image>
+<thumbnail_img><![CDATA[]]></thumbnail_img>
+<main_img><![CDATA[A73E905D-E149-27AC-F215-E3B5EBB53B42_audi_a3.jpg]]></main_img>
+</image>
+</images>
+</vehicle>
+<vehicle>
+<id>7</id>
+<vehicleid>46</vehicleid>
+<catids>
+<catid>46</catid>
+</catids>
+<description><![CDATA[]]></description>
+<link><![CDATA[6]]></link>
+<vmodel><![CDATA[155]]></vmodel>
+<vtype><![CDATA[sedan]]></vtype>
+<listing_type><![CDATA[vehicle for rent]]></listing_type>
+<price>111</price>
+<priceunit><![CDATA[USD]]></priceunit>
+<price_type>negotiable</price_type>
+<vtitle><![CDATA[Alfa Romeo 155]]></vtitle>
+<vlocation><![CDATA[111]]></vlocation>
+<vlatitude></vlatitude>
+<vlongitude></vlongitude>
+<contacts></contacts>
+<map_zoom>1</map_zoom>
+<year>1900</year>
+<vcondition><![CDATA[new]]></vcondition>
+<mileage></mileage>
+<listing_status><![CDATA[active]]></listing_status>
+<engine><![CDATA[]]></engine>
+<transmission><![CDATA[manual]]></transmission>
+<drive_type><![CDATA[Fwd]]></drive_type>
+<cylinder><![CDATA[4]]></cylinder>
+<num_speed><![CDATA[3Spd]]></num_speed>
+<fuel_type><![CDATA[petrol]]></fuel_type>
+<city_fuel_mpg><![CDATA[]]></city_fuel_mpg>
+<highway_fuel_mpg><![CDATA[]]></highway_fuel_mpg>
+<wheelbase><![CDATA[]]></wheelbase>
+<wheeltype><![CDATA[]]></wheeltype>
+<rear_axe_type><![CDATA[]]></rear_axe_type>
+<brakes_type><![CDATA[]]></brakes_type>
+<exterior_color><![CDATA[]]></exterior_color>
+<doors>none</doors>
+<exterior_amenities><![CDATA[]]></exterior_amenities>
+<interior_color><![CDATA[]]></interior_color>
+<seating></seating>
+<dashboard_options><![CDATA[]]></dashboard_options>
+<interior_amenities><![CDATA[]]></interior_amenities>
+<safety_options><![CDATA[]]></safety_options>
+<w_basic><![CDATA[]]></w_basic>
+<w_drivetrain><![CDATA[]]></w_drivetrain>
+<w_corrosion><![CDATA[]]></w_corrosion>
+<w_roadside_ass><![CDATA[]]></w_roadside_ass>
+<image_link><![CDATA[2183A94D-F37D-35A6-9CF2-FFE20F5E1618_VW R50.jpg]]></image_link>
+<featured_clicks><![CDATA[]]></featured_clicks>
+<featured_shows><![CDATA[]]></featured_shows>
+<hits>5</hits>
+<date>2012-11-30 13:57:49</date>
+<published>1</published>
+<maker><![CDATA[ALFA ROMEO]]></maker>
+<owneremail><![CDATA[]]></owneremail>
+<country><![CDATA[]]></country>
+<region><![CDATA[]]></region>
+<city><![CDATA[]]></city>
+<district><![CDATA[]]></district>
+<zipcode><![CDATA[]]></zipcode>
+<extra1><![CDATA[]]></extra1>
+<extra2><![CDATA[]]></extra2>
+<extra3><![CDATA[]]></extra3>
+<extra4><![CDATA[]]></extra4>
+<extra5><![CDATA[]]></extra5>
+<extra6><![CDATA[Extra1]]></extra6>
+<extra7><![CDATA[Extra1]]></extra7>
+<extra8><![CDATA[Extra1]]></extra8>
+<extra9><![CDATA[Extra1]]></extra9>
+<extra10><![CDATA[Extra1]]></extra10>
+<language><![CDATA[*]]></language>
+<rents>
+</rents>
+<rentrequests>
+</rentrequests>
+<buyingrequests>
+</buyingrequests>
+<reviews>
+</reviews>
+<images>
+<image>
+<thumbnail_img><![CDATA[]]></thumbnail_img>
+<main_img><![CDATA[DB858AC6-3770-9597-1638-34D9FC09C4DC_VW R50.jpg]]></main_img>
+</image>
+<image>
+<thumbnail_img><![CDATA[]]></thumbnail_img>
+<main_img><![CDATA[9CDAEBE8-065C-003E-5B14-CF16000093FF_VW R50.jpg]]></main_img>
+</image>
+</images>
+</vehicle>
+<vehicle>
+<id>8</id>
+<vehicleid>48</vehicleid>
+<catids>
+<catid>49</catid>
+</catids>
+<description><![CDATA[<p>2008 Chevrolet Corvette 2dr Cpe Z06</p>]]></description>
+<link><![CDATA[7]]></link>
+<vmodel><![CDATA[Corvette]]></vmodel>
+<vtype><![CDATA[coupe]]></vtype>
+<listing_type><![CDATA[vehicle for rent]]></listing_type>
+<price>66995</price>
+<priceunit><![CDATA[USD]]></priceunit>
+<price_type>negotiable</price_type>
+<vtitle><![CDATA[2008 Chevrolet Corvette 2dr Cpe Z06]]></vtitle>
+<vlocation><![CDATA[95 South Main Street, Fredericktown, OH, 43019, USA]]></vlocation>
+<vlatitude>40.17299720788816</vlatitude>
+<vlongitude>-82.9248046875</vlongitude>
+<contacts></contacts>
+<map_zoom>4</map_zoom>
+<year>2008</year>
+<vcondition><![CDATA[new]]></vcondition>
+<mileage>79 mile</mileage>
+<listing_status><![CDATA[active]]></listing_status>
+<engine><![CDATA[7.0L (427 CI) LS7 V8 SFI with dry sump oil system]]></engine>
+<transmission><![CDATA[manual]]></transmission>
+<drive_type><![CDATA[Fwd]]></drive_type>
+<cylinder><![CDATA[8]]></cylinder>
+<num_speed><![CDATA[6Spd]]></num_speed>
+<fuel_type><![CDATA[petrol]]></fuel_type>
+<city_fuel_mpg><![CDATA[15 L]]></city_fuel_mpg>
+<highway_fuel_mpg><![CDATA[24 L]]></highway_fuel_mpg>
+<wheelbase><![CDATA[2.9 m]]></wheelbase>
+<wheeltype><![CDATA[Z06 Silver-painted aluminum, 18 x 9.5 (45.7 cm x 24.1 cm) front and 19 x 12 (48.]]></wheeltype>
+<rear_axe_type><![CDATA[3.42 ratio, limited slip]]></rear_axe_type>
+<brakes_type><![CDATA[4-wheel antilock, 4-wheel disc]]></brakes_type>
+<exterior_color><![CDATA[red]]></exterior_color>
+<doors>2</doors>
+<exterior_amenities><![CDATA[Headlamps, dual projector lamps, Xenon, High-Intensity Discharge (HID) low-beam, tungsten-halogen high-beam with automatic exterior lamp control,Fog lamps, front, integral in front fascia,Mirrors, outside heated power-adjustable and driver-side auto-dimming, body- color,Glass, Solar-Ray light-tinted Wipers, front intermittent]]></exterior_amenities>
+<interior_color><![CDATA[ebony]]></interior_color>
+<seating>2</seating>
+<dashboard_options><![CDATA[Cruise control, electronic with set and resume speed,Keyless Access, with push button start and 2 remote transmitters that enable automatic door unlock and open by touching door switch]]></dashboard_options>
+<interior_amenities><![CDATA[Seats, front bucket with perforated leather seating surfaces, Z06 embroidery and contrasting stitching, Head-Up Display, with dot-matrix readouts for street mode, track mode with g-meter, vehicle speed, engine rpm and readings from key gauges including water temperature and oil pressure, Seat adjuster, driver 6-way power,Air conditioning, dual-zone automatic climate control with individual climate settings for driver and right-front passenger a]]></interior_amenities>
+<safety_options><![CDATA[Traction control, all-speed, Air bags, frontal, driver and right-front passenger with Passenger Sensing System]]></safety_options>
+<w_basic><![CDATA[3 Years/36,000 Miles]]></w_basic>
+<w_drivetrain><![CDATA[5 Years/100,000 Miles]]></w_drivetrain>
+<w_corrosion><![CDATA[6 Years/100,000 Miles]]></w_corrosion>
+<w_roadside_ass><![CDATA[5 Years/100,000 Miles]]></w_roadside_ass>
+<image_link><![CDATA[899B9024-BEB0-6E42-1054-FE7CA7E1033B_Bentley.jpg]]></image_link>
+<featured_clicks><![CDATA[]]></featured_clicks>
+<featured_shows><![CDATA[]]></featured_shows>
+<hits>52</hits>
+<date>2012-11-30 14:02:29</date>
+<published>1</published>
+<maker><![CDATA[CHEVROLET]]></maker>
+<owneremail><![CDATA[]]></owneremail>
+<country><![CDATA[]]></country>
+<region><![CDATA[]]></region>
+<city><![CDATA[]]></city>
+<district><![CDATA[]]></district>
+<zipcode><![CDATA[]]></zipcode>
+<extra1><![CDATA[]]></extra1>
+<extra2><![CDATA[]]></extra2>
+<extra3><![CDATA[]]></extra3>
+<extra4><![CDATA[]]></extra4>
+<extra5><![CDATA[]]></extra5>
+<extra6><![CDATA[Extra1]]></extra6>
+<extra7><![CDATA[Extra1]]></extra7>
+<extra8><![CDATA[Extra1]]></extra8>
+<extra9><![CDATA[Extra1]]></extra9>
+<extra10><![CDATA[Extra1]]></extra10>
+<language><![CDATA[*]]></language>
+<rents>
+</rents>
+<rentrequests>
+</rentrequests>
+<buyingrequests>
+</buyingrequests>
+<reviews>
+</reviews>
+<images>
+<image>
+<thumbnail_img><![CDATA[]]></thumbnail_img>
+<main_img><![CDATA[93E7308A-21A1-B336-565B-0567113D93E9_Bentley.jpg]]></main_img>
+</image>
+<image>
+<thumbnail_img><![CDATA[]]></thumbnail_img>
+<main_img><![CDATA[73DA0379-5449-A4B9-8220-134205B0FD23_Bentley.jpg]]></main_img>
+</image>
+</images>
+</vehicle>
+<vehicle>
+<id>9</id>
+<vehicleid>50</vehicleid>
+<catids>
+<catid>50</catid>
+</catids>
+<description><![CDATA[<p>2000 Mercedes-Benz S Class S430</p>]]></description>
+<link><![CDATA[8]]></link>
+<vmodel><![CDATA[S 430]]></vmodel>
+<vtype><![CDATA[sedan]]></vtype>
+<listing_type><![CDATA[vehicle for sale]]></listing_type>
+<price>11999</price>
+<priceunit><![CDATA[USD]]></priceunit>
+<price_type>negotiable</price_type>
+<vtitle><![CDATA[2000 Mercedes-Benz S Class S430]]></vtitle>
+<vlocation><![CDATA[6315 Church St., Riverdale, Ga 30274]]></vlocation>
+<vlatitude>33.72982178196422</vlatitude>
+<vlongitude>-84.39697265625</vlongitude>
+<contacts></contacts>
+<map_zoom>4</map_zoom>
+<year>1900</year>
+<vcondition><![CDATA[used]]></vcondition>
+<mileage>145075 mile</mileage>
+<listing_status><![CDATA[active]]></listing_status>
+<engine><![CDATA[V8, 4.3L]]></engine>
+<transmission><![CDATA[automatic]]></transmission>
+<drive_type><![CDATA[Fwd]]></drive_type>
+<cylinder><![CDATA[8]]></cylinder>
+<num_speed><![CDATA[5Spd]]></num_speed>
+<fuel_type><![CDATA[petrol]]></fuel_type>
+<city_fuel_mpg><![CDATA[10 L]]></city_fuel_mpg>
+<highway_fuel_mpg><![CDATA[15 L]]></highway_fuel_mpg>
+<wheelbase><![CDATA[2.5 m]]></wheelbase>
+<wheeltype><![CDATA[Alloy wheels]]></wheeltype>
+<rear_axe_type><![CDATA[]]></rear_axe_type>
+<brakes_type><![CDATA[Automatic Anti-Lock Brakes]]></brakes_type>
+<exterior_color><![CDATA[silver]]></exterior_color>
+<doors>4</doors>
+<exterior_amenities><![CDATA[Sunroof Keyless Entry Rear Window Defrost. Interval Wipers Power Locks Power Windows Power Mirrors Power Brakes Power Steering Dual Power Seats Heated Seat(s) Lumbar Memory Seat(s) Power Outlet Auto Head Lamps Auto Rearview Mirror Dimmer Steering Wheel Controls Remote Trunk Release Tachometer]]></exterior_amenities>
+<interior_color><![CDATA[black]]></interior_color>
+<seating>5</seating>
+<dashboard_options><![CDATA[Cruise Control Air Conditioning Tilt Steering Wheel AM/FM CD Wood Dash Dual Airbags Trip Odometer]]></dashboard_options>
+<interior_amenities><![CDATA[Leather Interior Front Bucket Seats]]></interior_amenities>
+<safety_options><![CDATA[Even if vehicles equipped with air bags and the Passenger Sensing System, children are safer when properly secured in a rear seat]]></safety_options>
+<w_basic><![CDATA[]]></w_basic>
+<w_drivetrain><![CDATA[]]></w_drivetrain>
+<w_corrosion><![CDATA[]]></w_corrosion>
+<w_roadside_ass><![CDATA[]]></w_roadside_ass>
+<image_link><![CDATA[CCF1602B-D018-9077-9089-77691D43491C_Mercedes.jpg]]></image_link>
+<featured_clicks><![CDATA[]]></featured_clicks>
+<featured_shows><![CDATA[]]></featured_shows>
+<hits>26</hits>
+<date>2012-11-30 14:02:59</date>
+<published>1</published>
+<maker><![CDATA[MERCEDES-BENZ]]></maker>
+<owneremail><![CDATA[]]></owneremail>
+<country><![CDATA[]]></country>
+<region><![CDATA[]]></region>
+<city><![CDATA[]]></city>
+<district><![CDATA[]]></district>
+<zipcode><![CDATA[]]></zipcode>
+<extra1><![CDATA[]]></extra1>
+<extra2><![CDATA[]]></extra2>
+<extra3><![CDATA[]]></extra3>
+<extra4><![CDATA[]]></extra4>
+<extra5><![CDATA[]]></extra5>
+<extra6><![CDATA[Extra1]]></extra6>
+<extra7><![CDATA[Extra1]]></extra7>
+<extra8><![CDATA[Extra1]]></extra8>
+<extra9><![CDATA[Extra1]]></extra9>
+<extra10><![CDATA[Extra1]]></extra10>
+<language><![CDATA[*]]></language>
+<rents>
+</rents>
+<rentrequests>
+</rentrequests>
+<buyingrequests>
+</buyingrequests>
+<reviews>
+</reviews>
+<images>
+<image>
+<thumbnail_img><![CDATA[]]></thumbnail_img>
+<main_img><![CDATA[C3D51FED-88FC-F6AA-9D6C-BED080DD5535_Mercedes.jpg]]></main_img>
+</image>
+<image>
+<thumbnail_img><![CDATA[]]></thumbnail_img>
+<main_img><![CDATA[A93405FE-1E72-0DDD-3C88-24FD0260A2A7_Mercedes.jpg]]></main_img>
+</image>
+</images>
+</vehicle>
+<vehicle>
+<id>10</id>
+<vehicleid>34</vehicleid>
+<catids>
+<catid>51</catid>
+</catids>
+<description><![CDATA[]]></description>
+<link><![CDATA[9]]></link>
+<vmodel><![CDATA[Civic]]></vmodel>
+<vtype><![CDATA[sedan]]></vtype>
+<listing_type><![CDATA[vehicle for rent]]></listing_type>
+<price>126350</price>
+<priceunit><![CDATA[USD]]></priceunit>
+<price_type>negotiable</price_type>
+<vtitle><![CDATA[2007 HONDA CIVIC HATCHBACK 2.0 I-VTEC TYPE R GT 3DR]]></vtitle>
+<vlocation><![CDATA[Washington]]></vlocation>
+<vlatitude>38.93633916739402</vlatitude>
+<vlongitude>-77.069091796875</vlongitude>
+<contacts></contacts>
+<map_zoom>7</map_zoom>
+<year>2007</year>
+<vcondition><![CDATA[used]]></vcondition>
+<mileage>20000</mileage>
+<listing_status><![CDATA[active]]></listing_status>
+<engine><![CDATA[]]></engine>
+<transmission><![CDATA[manual]]></transmission>
+<drive_type><![CDATA[Fwd]]></drive_type>
+<cylinder><![CDATA[4]]></cylinder>
+<num_speed><![CDATA[3Spd]]></num_speed>
+<fuel_type><![CDATA[petrol]]></fuel_type>
+<city_fuel_mpg><![CDATA[]]></city_fuel_mpg>
+<highway_fuel_mpg><![CDATA[]]></highway_fuel_mpg>
+<wheelbase><![CDATA[]]></wheelbase>
+<wheeltype><![CDATA[]]></wheeltype>
+<rear_axe_type><![CDATA[]]></rear_axe_type>
+<brakes_type><![CDATA[]]></brakes_type>
+<exterior_color><![CDATA[]]></exterior_color>
+<doors>none</doors>
+<exterior_amenities><![CDATA[]]></exterior_amenities>
+<interior_color><![CDATA[]]></interior_color>
+<seating></seating>
+<dashboard_options><![CDATA[]]></dashboard_options>
+<interior_amenities><![CDATA[]]></interior_amenities>
+<safety_options><![CDATA[]]></safety_options>
+<w_basic><![CDATA[]]></w_basic>
+<w_drivetrain><![CDATA[]]></w_drivetrain>
+<w_corrosion><![CDATA[]]></w_corrosion>
+<w_roadside_ass><![CDATA[]]></w_roadside_ass>
+<image_link><![CDATA[78463231-C8E2-CFE4-C185-61ABE90D234E_Mercedes1.jpg]]></image_link>
+<featured_clicks><![CDATA[]]></featured_clicks>
+<featured_shows><![CDATA[]]></featured_shows>
+<hits>5</hits>
+<date>2012-11-30 13:59:31</date>
+<published>1</published>
+<maker><![CDATA[HONDA]]></maker>
+<owneremail><![CDATA[]]></owneremail>
+<country><![CDATA[]]></country>
+<region><![CDATA[]]></region>
+<city><![CDATA[]]></city>
+<district><![CDATA[]]></district>
+<zipcode><![CDATA[]]></zipcode>
+<extra1><![CDATA[]]></extra1>
+<extra2><![CDATA[]]></extra2>
+<extra3><![CDATA[]]></extra3>
+<extra4><![CDATA[]]></extra4>
+<extra5><![CDATA[]]></extra5>
+<extra6><![CDATA[Extra1]]></extra6>
+<extra7><![CDATA[Extra1]]></extra7>
+<extra8><![CDATA[Extra1]]></extra8>
+<extra9><![CDATA[Extra1]]></extra9>
+<extra10><![CDATA[Extra1]]></extra10>
+<language><![CDATA[*]]></language>
+<rents>
+</rents>
+<rentrequests>
+</rentrequests>
+<buyingrequests>
+</buyingrequests>
+<reviews>
+</reviews>
+<images>
+<image>
+<thumbnail_img><![CDATA[]]></thumbnail_img>
+<main_img><![CDATA[B250D8C9-F6A4-5A3B-FBF8-B087C7E80E30_Mercedes1.jpg]]></main_img>
+</image>
+<image>
+<thumbnail_img><![CDATA[]]></thumbnail_img>
+<main_img><![CDATA[A71AFAD4-67A3-6F16-6643-811F7157262A_Mercedes1.jpg]]></main_img>
+</image>
+</images>
+</vehicle>
+</vechicles_list>
+</vechicles_data>
